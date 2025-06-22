@@ -1,12 +1,16 @@
 # weather-App
-A simple Weather App built with HTML, CSS, and JavaScript that shows real-time weather data. Users can search for any city to get temperature, humidity, wind speed, and weather conditions using API data. It features a clean, responsive design and handles invalid inputs.
-Yahan ek **Weather App** ke baare mein **English mein description** diya gaya hai jo **HTML, CSS, and JavaScript** ka use karke banaya gaya ho:
+
+![screenshot1](https://github.com/user-attachments/assets/0cd0463c-50b9-4e8e-9d80-4ec8c5963c28)
+
+![Screenshot3](https://github.com/user-attachments/assets/db55505b-b09c-4e9f-881d-b060657e3468)
+
+![screenshot2](https://github.com/user-attachments/assets/25a2c5fc-0a5e-4d65-8590-0b7d6bdd1218)
 
 ---
 
 ### 🌤️ Weather App – Description (HTML, CSS, JavaScript)
 
-**Project Title:** Weather App
+**Project Title:** Weather-App
 
 **Description:**
 
